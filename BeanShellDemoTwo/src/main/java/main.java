@@ -1,0 +1,1 @@
+import com.seling.test.BeanShellEg;/** * @program: BeanShellDemoTwo * @description: * @author: gonghuihui * @create: 2018-08-20 16:53 **/public class main {    public static void main(String args[]){        BeanShellEg beanShellEg = new BeanShellEg("yulu");        System.out.println(beanShellEg.getUserName());    }}
